@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Unit Selection System for Unity! This system allows you to select, deselect, drag-select units, and interact with them, making it perfect for real-time strategy (RTS) games.
+This system allows you to select, deselect, drag-select units, and interact with them, making it perfect for real-time strategy (RTS) games.
 
 https://github.com/Litt1eStar/RTS---Unit-Selection-System/assets/90139527/85eb0b6e-5aa3-4b94-ad19-d41f467bcc5b
 
